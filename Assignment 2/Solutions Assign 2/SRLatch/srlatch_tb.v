@@ -17,7 +17,7 @@ initial begin
     SR=2'b01;#10;
     SR=2'b10;#10;
     SR=2'b11;#10;
-$display("is chutiya");
+    $display("is done");
     $finish;
 end
     
